@@ -1,4 +1,5 @@
 # Custom ChatBot
+This repository allows you to have a conversation with your own data!
 
 ## Features:
 
